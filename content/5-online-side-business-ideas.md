@@ -7,8 +7,12 @@ categories:
   - blog
   - opensource
 tags:
-  - Side Hustle
-  - Top 5
+  - side hustle
+  - top 5
+  - dropshipping
+  - freelancing
+  - micro-saas
+  - website flipping
 ---
 
 
