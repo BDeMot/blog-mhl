@@ -45,5 +45,11 @@ export default defineAppConfig({
     enabled: true,
     provider: "demo",  // possible values: "blogtally", "mailerlite", "demo"
     form_action: "YOUR_FORM_ACTION_URL",
-  }
+  },
+  analytics: {
+    providers: [ {
+        provider: 'google',
+        code: 'G-J264LRB4RB'
+    }]
+}
 })
