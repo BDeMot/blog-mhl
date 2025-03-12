@@ -1,6 +1,6 @@
 ---
-title: Welcome in the MoneyHacksLab
-description: A simple blog with Bloggrify
+title: The MoneyHacksLab
+description: Blog for side-hustlers
 layout: home
 listed: false
 ---

@@ -1,4 +1,5 @@
 export default defineAppConfig({
+  url: "https://moneyhackslab.com",
   theme: 'mistral',
   name: 'MoneyHacksLab',
   description: 'MoneyHacksLab is a blog that helps you make money.',
