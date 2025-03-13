@@ -1,11 +1,8 @@
 ---
 title: "5 Online Side-Business Ideas to Boost Your Monthly Income"
 description: "Imagine waking up each morning to find you've earned extra cash overnight. Sound appealing? Dive into these five simple yet powerful online side-business ideas to make that dream a reality"
-date: "2025-02-24"
+date: "2025-03-11"
 cover: "/covers/hustle1.jpg"
-categories:
-  - blog
-  - opensource
 tags:
   - side hustle
   - top 5

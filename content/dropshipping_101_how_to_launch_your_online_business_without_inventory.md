@@ -1,11 +1,8 @@
 ---
 title: "Dropshipping 101: How to Launch Your Online Business Without Inventory"
 description: "Discover dropshipping, the low-risk, high-reward method to start your online business without managing inventory or shipping"
-date: "2025-02-25"
+date: "2025-03-12"
 cover: "/covers/dropshipping.jpg"
-categories:
-  - blog
-  - opensource
 tags:
   - dropshipping
   - 101
