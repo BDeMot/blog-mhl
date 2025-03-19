@@ -1,11 +1,11 @@
 ---
-title: "Dropshipping 101: How to Launch Your Online Business Without Inventory"
+title: "Dropshipping Guide: How to Launch Your Online Business Without Inventory"
 description: "Discover dropshipping, the low-risk, high-reward method to start your online business without managing inventory or shipping"
 date: "2025-03-12"
 cover: "/covers/dropshipping.jpg"
 tags:
   - dropshipping
-  - 101
+  - guide
 ---
 
 Dropshipping has quickly become one of the most popular methods for launching an online business with minimal financial investment. This innovative and accessible business model allows anyone to sell products online without managing inventory or handling shipping logistics personally.

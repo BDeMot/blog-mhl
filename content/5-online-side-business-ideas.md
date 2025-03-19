@@ -23,7 +23,7 @@ To get started, consider signing up on popular freelance platforms such as [Upwo
 
 ## Dropshipping
 
-Dropshipping is a low-risk way to start selling products online. With dropshipping, you never handle inventory yourself; instead, you partner with suppliers who ship products directly to customers once an order is placed. This dramatically lowers startup costs since you only pay for products after customers have already purchased them from you.
+[Dropshipping](/dropshipping_101_how_to_launch_your_online_business_without_inventory) is a low-risk way to start selling products online. With dropshipping, you never handle inventory yourself; instead, you partner with suppliers who ship products directly to customers once an order is placed. This dramatically lowers startup costs since you only pay for products after customers have already purchased them from you.
 
 To succeed in dropshipping, selecting the right niche and trustworthy suppliers is crucial. Platforms like [Shopify](https://www.shopify.com/) make setting up your online store extremely straightforward, while suppliers can be found through services like [AliExpress](https://www.aliexpress.com/) or [Spocket](https://www.spocket.co/). Good customer service and efficient marketing strategies can help your store grow quickly and profitably.
 
@@ -41,7 +41,7 @@ Start by identifying a common pain point in your industry or daily life, and bui
 
 ## Website Flipping
 
-Website flipping is essentially buying, improving, and reselling websites for profit—think of it as house flipping, but online. You find websites that have potential but aren’t performing well, give them a fresh makeover, update the content, improve their SEO, and then sell them to interested buyers at a higher price.
+[Website flipping ](/website-flipping-lesson) is essentially buying, improving, and reselling websites for profit—think of it as house flipping, but online. You find websites that have potential but aren’t performing well, give them a fresh makeover, update the content, improve their SEO, and then sell them to interested buyers at a higher price.
 
 You don't need extensive technical skills to start, but basic knowledge of web design and SEO certainly helps. Marketplaces like [Flippa](https://flippa.com/) and [Empire Flippers](https://empireflippers.com/) are great places to begin your search. With some practice, you’ll become adept at identifying valuable opportunities, allowing you to make impressive profits by flipping sites regularly.
 

@@ -5,7 +5,7 @@ date: "2025-03-13"
 cover: "/covers/itemsflipping.jpg"
 tags:
   - items flipping
-  - 101
+  - guide
 ---
 
 Looking for a straightforward yet profitable way to boost your income or start a manageable side hustle? Buying inexpensive products from sites like AliExpress, Temu, and similar platforms and reselling them on marketplaces like Vinted, eBay, or Facebook Marketplace is a proven strategy that many use to generate extra cash with minimal effort. Here's your ultimate guide to mastering this simple yet effective approach.
